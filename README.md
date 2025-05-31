@@ -8,7 +8,7 @@ Questa è una semplice applicazione web che simula un contatore.
 - Suono al clic (+/−)
 
 ## Come provarla
-👉 [Clicca qui per provarla su Netlify](https://...)
+👉 [Clicca qui per provarla su Netlify](https://inquisitive-seahorse-82452d.netlify.app)
 
 ## Tecnologie
 - HTML
